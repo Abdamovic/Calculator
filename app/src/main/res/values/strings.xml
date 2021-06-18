@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculate</string>
+    <string name="number1">Enter Number</string>
+    <string name="number2">Enter Number</string>
+    <string name="f">+</string>
+    <string name="r">-</string>
+    <string name="p">P</string>
+    <string name="d">/</string>
+    <string name="m">*</string>
+    <string name="md">%</string>
+</resources>
